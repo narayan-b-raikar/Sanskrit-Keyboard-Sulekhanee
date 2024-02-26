@@ -20,3 +20,11 @@ shreenilaya@outlook.in.
 If you want to modify this keyboard, you must install Microsoft keyboard layout creator V 1.4. You can download this application from this page https://www.microsoft.com/en-us/download/details.aspx?id=102134. Then open the installed application and click on load existing keyboard from the file menu. for more info, refer the help topic from dedicated menu in the application.
 
 Note: on Windows 8 or later OS, Microsoft net framework 3.0 and 3.5 must be installed for this application to work properly.
+
+### Some artical links related building keyboard layouts as follow:
+
+1. Github MSKLC Guide: https://msklc-guide.github.io/
+
+2. Deadkey related tricks: https://archives.miloush.net/michkap/archive/2011/04/16/10154700.html
+
+3. Chained dead keys in KLC - Technical - Colemak forum: https://forum.colemak.com/topic/2211-chained-dead-keys-in-klc/

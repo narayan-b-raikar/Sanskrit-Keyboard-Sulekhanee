@@ -6,7 +6,7 @@ This keyboard layout is built to make convenience for writing Sanskrit very fast
 
 If you want to install this keyboard layout on your computer, first you must download the zip file from this link:
 
-https://github.com/narayan-b-raikar/Sanskrit-Keyboard-Sulekhanee/files/14395592/Sanskrit.Sulekhanee.v.3.0.zip
+https://github.com/narayan-b-raikar/Sanskrit-Keyboard-Sulekhanee/releases/download/V4.0.0/Sanskrit_Phonetic_Keyboard_Sulekhanee_V4.0.0.zip
 
 After downloading this keyboard, add Sanskrit language in Windows' Languages, if not already added. Then you need to extract the downloaded zip file. after extraction, click on the Setup icon in the extracted folder. If the Windows Smart Screen warning dialog is displayed, do not worry. It is 100 % virus free. Therefore, you can simply click on the ‘Learn More’ icon and then click on the ‘Run Anyway’ button. After this, Sanskrit keyboard will be successfully installed on your computer and available for you anywhere to write Sanskrit language. Click on ‘close’ button to exit installation dialog.
 

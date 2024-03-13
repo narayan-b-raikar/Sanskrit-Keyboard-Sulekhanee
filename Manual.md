@@ -1,11 +1,11 @@
-Manual for Sulekhanee Sanskrit Phonetic Keyboard
+# Manual for Sulekhanee Sanskrit Phonetic Keyboard
+
 ================================================
 
-&nbsp;
+## First row
 
-| First row | &nbsp; | &nbsp; |
-| --- | --- | --- |
 | Keys | Without shift | With shift |
+| :---: | :---: | :---: |
 | \` | ॐ | ꣳ |
 | &#49; | १ | ॑ |
 | &#50; | २ | ॒ |
@@ -20,12 +20,10 @@ Manual for Sulekhanee Sanskrit Phonetic Keyboard
 | \- | \- | \_ |
 | \= | \= | \+ |
 
+## Second row 
 
-&nbsp;
-
-| Second row |  |  |
-| --- | --- | --- |
 | Keys | With shift | Without shift |
+| :---: | :---: | :---: |
 | q | ट | ठ |
 | w | ड | ढ |
 | e | े | ै |
@@ -40,13 +38,12 @@ Manual for Sulekhanee Sanskrit Phonetic Keyboard
 | \] | ॠ | } |
 | \\ | । | ॥ |
 
+## Third row
 
-&nbsp;
-
-| Third row | &nbsp; | &nbsp; |
-| --- | --- | --- |
-| A | अ | ा |
-| S | स | श |
+| Keys | Without shift | With Shift |
+| :---: | :---: | :---: |
+| a | अ | ा |
+| s | स | श |
 | d | द | ध |
 | f | ् | ॄ |
 | g | ग | घ |
@@ -57,11 +54,10 @@ Manual for Sulekhanee Sanskrit Phonetic Keyboard
 | ; | इ | ई |
 | ' | उ | ऊ |
 
+## Fourth row
 
-&nbsp;
-
-| &#52;th row | &nbsp; | &nbsp; |
-| --- | --- | --- |
+| Keys | Without Shift | With Shift |
+| :---: | :---: | :---: |
 | z | आ | ञ |
 | x | ष | ङ |
 | c | च | छ |
@@ -72,10 +68,3 @@ Manual for Sulekhanee Sanskrit Phonetic Keyboard
 | , | , | ए |
 | . | . | ओ |
 | / | ़ | ? |
-
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;

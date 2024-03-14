@@ -1,61 +1,80 @@
-Sanskrit-Keyboard-Sulekhanee
-============================
+# Sanskrit Phonetic Keyboard Sulekhanee
 
-This keyboard layout is built to make convenience for writing Sanskrit very fast
-everywhere in Windows. This keyboard is a modified version of the already
-created layout named 'Vidyut Soft Sanskrit Keyboard'. on this keyboard, key
-combinations of some characters have been changed to increase typing speed. And
-also some vedik symbols are included in this layout.
+## Intruduction
 
-Installation instructions:
-==========================
+Sanskrit phonetic keyboard Sulekhanee is a Keyboard layout built to make convenience for writing Sanskrit very fast across all Windows application. This keyboard is a modified version of the already created Keyboard layout named 'Vidyut Soft Sanskrit Keyboard'. on this keyboard, key combinations of some characters have been changed to increase typing speed. And also extra symbols to be used in Vedik Mantras are included in this layout.
 
-If you want to install this keyboard layout on your computer, first you must
-download the zip file from this link:
+## Advantages in this Keyboard layout
 
-https://github.com/narayan-b-raikar/Sanskrit-Keyboard-Sulekhanee/releases/download/V4.0.0/Sanskrit\_Phonetic\_Keyboard\_Sulekhanee\_V4.0.0.zip
+1. Faster Typing: Sulekhanee leverages familiar key combinations inspired by the 'Kannada Kagapa Nudi' layout, promoting faster and more efficient typing.
 
-After downloading this keyboard, add Sanskrit language in Windows' Languages, if
-not already added. Then you need to extract the downloaded zip file. after
-extraction, click on the Setup icon in the extracted folder. If the Windows
-Smart Screen warning dialog is displayed, do not worry. It is 100 % virus free.
-Therefore, you can simply click on the ‘Learn More’ icon and then click on the
-‘Run Anyway’ button. After this, Sanskrit keyboard will be successfully
-installed on your computer and available for you anywhere to write Sanskrit
-language. Click on ‘close’ button to exit installation dialog.
+2. Improved Accessibility: Unlike the other keyboard layout application, Sulekhanee functions seamlessly within all Windows applications, including Microsoft Word and Excel.
+3. Wide Compatibility: This keyboard layout is designed for easy access and functionality on various systems.
 
-How to use this keyboard:
-=========================
+## Development Background
 
-Wherever you want to write in Sanskrit, just press Alt+Shift or Windows+Space
-key combination. your Sanskrit keyboard will be activated. The same key
-combination should be pressed to switch to English or other language. See the
-image in the extracted folder for how to use this keyboard. If you have any
-feedback or suggestions about this keyboard, send it to my email address
-shreenilaya@outlook.in.
+The Sulekhanee keyboard addresses limitations found in the Microsoft Keyboard Layout Creator. While the Creator offers some level of phonetic mapping, it may not be as optimized as the 'Kagapa Nudi Keyboard Layout' or latest Baraha  KBD keyboard layout.
+However, the other keyboard layout application itself face compatibility issues with certain Word processing programs like, Microsoft office word, Open office etc.
 
-Modifying keyboard layout as per your convenience:
-==================================================
+## Future Enhancements
 
-If you want to modify this keyboard, you must install Microsoft keyboard layout
-creator V 1.4. You can download this application from this page
-https://www.microsoft.com/en-us/download/details.aspx?id=102134. Then open the
-installed application and click on load existing keyboard from the file menu.
-for more info, refer the help topic from dedicated menu in the application.
+The Sulekhanee keyboard layout is under continuous development. We actively seek user feedback to implement modifications that further improve user convenience and typing experience.
 
-Note: on Windows 8 or later OS, Microsoft net framework 3.5 including 2.0 must
-be installed to work this application properly.
+## Installation
 
-### Some artical links related building keyboard layouts as follow: ###
+If you want to install this keyboard layout on your computer, follow these steps:
+
+1. Download the Keyboard Layout: Download the zip file containing the keyboard layout from this link:
+
+[Download Sanskrit Phonetic Keyboard here:](https://github.com/narayan-b-raikar/Sanskrit-Keyboard-Sulekhanee/releases/download/V4.0.0/Sanskrit_Phonetic_Keyboard_Sulekhanee_V4.0.0.zip)
+
+2. Add Sanskrit Language (if necessary): Ensure Sanskrit language is added in your Windows' Languages settings if it's not already included.
+
+3. Extract the Downloaded File: Unzip the downloaded file.
+
+4. Run the Setup: Locate the extracted folder and double-click the "Setup" icon to initiate the installation process.
+
+5. Bypass Windows SmartScreen (if prompted): You might encounter a Windows SmartScreen warning dialog. Since this layout is virus-free, you can safely click on "Learn More" followed by "Run Anyway" to proceed.
+
+6. Complete Installation: The installation will be completed, making the Sanskrit keyboard available for use across your system. Click "Close" to exit the installation dialog.
+
+## How to Use the Keyboard
+
+To activate the Sanskrit Phonetic Keyboard Sulekhanee whenever you want to type in Sanskrit, simply press the Alt+Shift or Windows+Space key combination. To switch back to English or another language, press the same key combination again.
+For reference on using this keyboard layout, refer the [Manual from this link](https://github.com/narayan-b-raikar/Sanskrit-Keyboard-Sulekhanee/blob/main/Manual.md).
+
+## Feedback and Suggestions
+
+We welcome your feedback and suggestions for improving the Kannada Phonetic Keyboard Sulekhanee. 
+Feel free to send your thoughts to our email address: [shreenilaya@outlook.in](shreenilaya@outlook.in)
+
+## Modifying the Keyboard Layout (Optional)
+
+This section details modifying the keyboard layout for advanced users. 
+If you wish to customize the layout, you'll need Microsoft Keyboard Layout Creator V 1.4.
+[Download and install the application](https://www.microsoft.com/en-us/download/details.aspx?id=102134)
+Once installed, launch the application and navigate to the "File" menu. Select "Load Existing Keyboard" to open the Sulekhanee layout for editing. Refer to the application's dedicated help menu for detailed instructions on modifying keyboard layouts.
+
+Note: On Windows 8 or later operating systems, Microsoft .NET Framework 3.5 (including 2.0 and 3.0) must be installed for the Microsoft Keyboard Layout Creator application to function properly.
+
+## Additional Resources for Building Keyboard Layouts
+
+This section provides external links to resources that you might find helpful if you're interested in building your own keyboard layouts:
 
 1. Github MSKLC Guide: https://msklc-guide.github.io/
-1. Deadkey related tricks:
-   https://archives.miloush.net/michkap/archive/2011/04/16/10154700.html
-1. Chained dead keys in KLC - Technical - Colemak forum:
-   https://forum.colemak.com/topic/2211-chained-dead-keys-in-klc/
-1. Senseful Solutions: How to fix keyboard shortcuts in KLC (e.g. Ctrl+S)
-   https://web.archive.org/web/20220122064240/http://www.sensefulsolutions.com/2010/08/how-to-fix-keyboard-shortcuts-in-klc-eg.html
-1. Virtual-Key Codes (Windows CE 5.0):
-   https://web.archive.org/web/20220123132811/https://docs.microsoft.com/en-us/previous-versions/windows/embedded/ms927178(v=msdn.10)?redirectedfrom=MSDN
-1. Virtual Key Codes (Compact 2013):
-   https://web.archive.org/web/20200725185728/https://docs.microsoft.com/en-us/previous-versions/windows/embedded/ee504832(v=winembedded.80)?redirectedfrom=MSDN
+
+2. Deadkey Related Tricks: https://www.youtube.com/watch?v=U_IG59rGwe4
+
+3. Chained Dead Keys in KLC (Technical): https://www.reddit.com/r/Colemak/comments/4euffh/dead_keys/
+
+4. Senseful Solutions: How to Fix Keyboard Shortcuts in KLC (e.g. Ctrl+S): https://archive.org/details/tucows_327616_KeyTweak
+
+5. Virtual Key Codes (Windows CE 5.0): https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes (Archived by Web Archive)
+
+ ## Contributors
+
+* [Dr. Narayan B Raikar](narayan-b-raikar)
+
+#### License
+
+This project is licensed under the GNU General Public License, See the [LICENSE Details](LICENSE) 

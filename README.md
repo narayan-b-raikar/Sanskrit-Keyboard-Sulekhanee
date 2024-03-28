@@ -1,4 +1,4 @@
-# Sanskrit Phonetic Keyboard Sulekhanee
+# Sanskrit Native Keyboard Sulekhanee
 
 ## Intruduction
 
@@ -6,14 +6,14 @@ Sanskrit phonetic keyboard Sulekhanee is a Keyboard layout built to make conveni
 
 ## Advantages in this Keyboard layout
 
-1. Faster Typing: Sulekhanee leverages familiar key combinations inspired by the 'Kannada Kagapa Nudi' layout, promoting faster and more efficient typing.
+1. * Faster Typing: Sulekhanee leverages familiar key combinations inspired by the 'Kagapa Nudi' layout, promoting faster and more efficient typing.
 
-2. Improved Accessibility: Unlike the other keyboard layout application, Sulekhanee functions seamlessly within all Windows applications, including Microsoft Word and Excel.
-3. Wide Compatibility: This keyboard layout is designed for easy access and functionality on various systems.
+2. * Improved Accessibility: Unlike the other keyboard layout application, Sulekhanee functions seamlessly within all Windows applications, including Microsoft Word and Excel.
+3. * Wide Compatibility: This keyboard layout is designed for easy access and functionality on various systems.
 
 ## Development Background
 
-The Sulekhanee keyboard addresses limitations found in the Microsoft Keyboard Layout Creator. While the Creator offers some level of phonetic mapping, it may not be as optimized as the 'Kagapa Nudi Keyboard Layout' or latest Baraha  KBD keyboard layout.
+The Sulekhanee keyboard addresses limitations found in the Microsoft Keyboard Layout Creator. While the Creator offers some level of mapping, it may not be as optimized as the 'Kagapa Nudi Keyboard Layout' or latest Baraha  KBD keyboard layout.
 However, the other keyboard layout application itself face compatibility issues with certain Word processing programs like, Microsoft office word, Open office etc.
 
 ## Future Enhancements
@@ -45,7 +45,8 @@ For reference on using this keyboard layout, refer the [Manual from this link](h
 
 ## Feedback and Suggestions
 
-We welcome your feedback and suggestions for improving the Kannada Phonetic Keyboard Sulekhanee. 
+We welcome your feedback and suggestions for improving the Sanskrit native Keyboard Sulekhanee. 
+
 Feel free to send your thoughts to our email address: [shreenilaya@outlook.in](shreenilaya@outlook.in)
 
 ## Modifying the Keyboard Layout (Optional)

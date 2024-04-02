@@ -26,7 +26,7 @@ If you want to install this keyboard layout on your computer, follow these steps
 
 1. Download the Keyboard Layout: Download the zip file containing the keyboard layout from this link:
 
-[Download Sanskrit Phonetic Keyboard here:](https://github.com/narayan-b-raikar/Sanskrit-Keyboard-Sulekhanee/releases/download/V4.0.0/Sanskrit_Phonetic_Keyboard_Sulekhanee_V4.0.0.zip)
+[Download Sanskrit Phonetic Keyboard here:](https://github.com/narayan-b-raikar/Sanskrit-Keyboard-Sulekhanee/releases/download/V4.5.0/Sanskrit.Native.Keyboard.Sulekhanee.V4.5.0.Zip)
 
 2. Add Sanskrit Language (if necessary): Ensure Sanskrit language is added in your Windows' Languages settings if it's not already included.
 

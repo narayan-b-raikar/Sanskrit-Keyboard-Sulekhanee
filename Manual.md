@@ -1,12 +1,10 @@
 Manual for Sulekhanee Sanskrit Phonetic Keyboard
-================================================
 
 &nbsp;
 =
 
 First row
 ---------
-
 &nbsp;
 
 | **Keys** | **Without shift** | **With shift** | **Caps layer without shift** | **Caps layer with shift** |

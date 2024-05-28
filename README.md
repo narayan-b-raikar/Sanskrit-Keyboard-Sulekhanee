@@ -9,6 +9,7 @@ Sanskrit phonetic keyboard Sulekhanee is a Keyboard layout built to make conveni
 1. * Faster Typing: Sulekhanee leverages familiar key combinations inspired by the 'Kagapa Nudi' layout, promoting faster and more efficient typing.
 
 2. * Improved Accessibility: Unlike the other keyboard layout application, Sulekhanee functions seamlessly within all Windows applications, including Microsoft Word and Excel.
+
 3. * Wide Compatibility: This keyboard layout is designed for easy access and functionality on various systems.
 
 ## Development Background

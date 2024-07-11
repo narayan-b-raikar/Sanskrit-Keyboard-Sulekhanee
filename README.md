@@ -6,11 +6,11 @@ Sanskrit phonetic keyboard Sulekhanee is a Keyboard layout built to make conveni
 
 ## Advantages in this Keyboard layout
 
-1. * Faster Typing: Sulekhanee leverages familiar key combinations inspired by the 'Kagapa Nudi' layout, promoting faster and more efficient typing.
+** Faster Typing** : Sulekhanee leverages familiar key combinations inspired by the 'Kagapa Nudi' layout, promoting faster and more efficient typing.
 
-2. * Improved Accessibility: Unlike the other keyboard layout application, Sulekhanee functions seamlessly within all Windows applications, including Microsoft Word and Excel.
+** Improved Accessibility ** : Unlike the other keyboard layout application, Sulekhanee functions seamlessly within all Windows applications, including Microsoft Word and Excel.
 
-3. * Wide Compatibility: This keyboard layout is designed for easy access and functionality on various systems.
+** Wide Compatibility ** : This keyboard layout is designed for easy access and functionality on various systems.
 
 ## Development Background
 
@@ -25,19 +25,19 @@ The Sulekhanee keyboard layout is under continuous development. We actively seek
 
 If you want to install this keyboard layout on your computer, follow these steps:
 
-1. Download the Keyboard Layout: Download the zip file containing the keyboard layout from this link:
+** Download the Keyboard Layout **: Download the zip file containing the keyboard layout from this link:
 
-[Download Sanskrit Phonetic Keyboard here:](https://github.com/narayan-b-raikar/Sanskrit-Keyboard-Sulekhanee/releases/download/V4.70/Sanskrit_native_keyboard_sulekhanee_V4.70.zip)
+[Download Sanskrit Phonetic Keyboard here:](https://github.com/narayan-b-raikar/Sanskrit-Keyboard-Sulekhanee/releases/download/V5.0.0/Sanskrit_Native_Keyboard_V5.0)
 
-2. Add Sanskrit Language (if necessary): Ensure Sanskrit language is added in your Windows' Languages settings if it's not already included.
+** Add Sanskrit Language (if necessary) **: Ensure Sanskrit language is added in your Windows' Languages settings if it's not already included.
 
-3. Extract the Downloaded File: Unzip the downloaded file.
+** Extract the Downloaded File ** : Unzip the downloaded file.
 
-4. Run the Setup: Locate the extracted folder and double-click the "Setup" icon to initiate the installation process.
+** Run the Setup **: Locate the extracted folder and double-click the "Setup" icon to initiate the installation process.
 
-5. Bypass Windows SmartScreen (if prompted): You might encounter a Windows SmartScreen warning dialog. Since this layout is virus-free, you can safely click on "Learn More" followed by "Run Anyway" to proceed.
+** Bypass Windows SmartScreen (if prompted) **: You might encounter a Windows SmartScreen warning dialog. Since this layout is virus-free, you can safely click on "Learn More" followed by "Run Anyway" to proceed.
 
-6. Complete Installation: The installation will be completed, making the Sanskrit keyboard available for use across your system. Click "Close" to exit the installation dialog.
+** Complete Installation **: The installation will be completed, making the Sanskrit keyboard available for use across your system. Click "Close" to exit the installation dialog.
 
 ## How to Use the Keyboard
 
